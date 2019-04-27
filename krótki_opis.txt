@@ -1,0 +1,3 @@
+do zrobienia tego zadania u¿y³me framewoka django
+oraz biblioteki pillow
+
